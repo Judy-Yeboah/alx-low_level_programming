@@ -1,7 +1,9 @@
 #include "main.h"
 /*
- * print putchar
- * return 0
+ *header file referenced from main.h
+ *function to print putchar
+ *print putchar
+ *return 0
  */
 
 int main(void)
