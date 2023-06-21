@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *header file referenced from main.h
  *function to print putchar
  *print putchar
