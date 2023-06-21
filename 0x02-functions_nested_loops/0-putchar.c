@@ -1,24 +1,21 @@
 #include "main.h"
 /**
- *header file referenced from main.h
- *function to print putchar
- *print putchar
- *return 0
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
  */
 
 int main(void)
-/*
- * in function main, print putchar and return 0
- */
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
-	return (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
+
