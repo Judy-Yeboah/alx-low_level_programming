@@ -5,10 +5,10 @@
  *print putchar
  *return 0
  */
+int main(void)
 /*
  * in function main, print putchar and return 0
  */
-int main(void)
 {
 	_putchar('_');
 	_putchar('p');
