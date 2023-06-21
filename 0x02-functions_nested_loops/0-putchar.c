@@ -5,7 +5,9 @@
  *print putchar
  *return 0
  */
-
+/*
+ * in function main, print putchar and return 0
+ */
 int main(void)
 {
 	_putchar('_');
