@@ -1,6 +1,4 @@
 #include "main.h"
-#include <unistd.h>
-
 /*
  * print putchar
  * return 0
