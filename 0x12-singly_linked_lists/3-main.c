@@ -11,7 +11,7 @@
 int main(void)
 {
 	list_t *head;
-	
+
 	head = NULL;
 	add_node_end(&head, "Anne");
 	add_node_end(&head, "Colton");
@@ -44,4 +44,3 @@ int main(void)
 	print_list(head);
 	return (0);
 }
-
