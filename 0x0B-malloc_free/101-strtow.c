@@ -69,7 +69,7 @@ void util(char **words, char *str)
 		}
 		i++;
 	}
-	
+
 	if (flag == 1)
 		create_word(words, str, start, i, j);
 }
