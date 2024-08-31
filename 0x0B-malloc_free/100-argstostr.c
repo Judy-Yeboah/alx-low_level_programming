@@ -20,7 +20,7 @@ char *argstostr(int ac, char **av)
 	{
 		s = av[i];
 		j = 0;
-		
+
 		while (s[j++])
 			len++;
 		len++;
